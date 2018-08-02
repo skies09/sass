@@ -1,0 +1,47 @@
+.item-1 {
+  width: 61px; }
+
+.item-2 {
+  width: 62px; }
+
+.item-3 {
+  width: 63px; }
+
+.item-4 {
+  width: 64px; }
+
+/*
+$random:5;
+
+h1 {
+    @if $random>5 {
+        color: blue;
+    }
+    @else if $random==3 {
+        color: purple;
+    }
+    @else {
+        color: orange;
+    }
+}*/
+/*h1{
+    @if 1 + 1 ==2 {
+        border:1px solid black;
+    }
+}*/
+p {
+  background-color: pink;
+  color: white;
+  border: 1px solid pink;
+  border-radius: 100%;
+  font-size: 30px;
+  font-weight: bold; }
+
+.btn {
+  width: 200px;
+  height: 100px;
+  color: #e84610;
+  border: 1px solid #e84610;
+  color: #fff; }
+
+/*# sourceMappingURL=style.css.map */
